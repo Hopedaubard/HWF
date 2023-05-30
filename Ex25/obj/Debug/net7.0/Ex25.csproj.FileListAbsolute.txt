@@ -1,0 +1,15 @@
+D:\Reposit\HWF\Ex25\bin\Debug\net7.0\Ex25.exe
+D:\Reposit\HWF\Ex25\bin\Debug\net7.0\Ex25.deps.json
+D:\Reposit\HWF\Ex25\bin\Debug\net7.0\Ex25.runtimeconfig.json
+D:\Reposit\HWF\Ex25\bin\Debug\net7.0\Ex25.dll
+D:\Reposit\HWF\Ex25\bin\Debug\net7.0\Ex25.pdb
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.csproj.AssemblyReference.cache
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.AssemblyInfoInputs.cache
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.AssemblyInfo.cs
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.csproj.CoreCompileInputs.cache
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.dll
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\refint\Ex25.dll
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.pdb
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\Ex25.genruntimeconfig.cache
+D:\Reposit\HWF\Ex25\obj\Debug\net7.0\ref\Ex25.dll
